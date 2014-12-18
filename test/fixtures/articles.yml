@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  article_title: MyString
+  article_year: 1
+  journal_id: 
+
+two:
+  article_title: MyString
+  article_year: 1
+  journal_id: 
